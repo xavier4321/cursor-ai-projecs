@@ -1,0 +1,19 @@
+{
+    "name": "random-number-generator",
+    "version": "1.0.0",
+    "description": "A random number generator with a nice front end",
+    "main": "main.js",
+    "scripts": {
+      "start": "live-server"
+    },
+    "keywords": [
+      "random",
+      "number",
+      "generator"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "live-server": "^1.2.1"
+    }
+  }
